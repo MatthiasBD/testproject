@@ -1,0 +1,66 @@
+.container {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.boogle {
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: lightgreen;
+}
+
+.phrase {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.sign-in-phrase {
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.loginbox {
+  height: 300px;
+  width: 300px;
+  background-color: lightgray;
+}
+
+.image {
+  border-radius: 100%;
+  margin-top: 20px;
+}
+
+.textbox {
+  margin-top: 15px;
+}
+
+input[type=text] {
+  background-color: lightyellow;
+  width: 80%;
+  height: 30px;
+}
+
+.next {
+  margin-top: 10px;
+}
+
+button[type=button] {
+  width: 80%;
+  height: 30px;
+  background-color: blue;
+  color: white;
+}
+
+.help {
+  margin-top: 5px;
+  color: blue;
+  font-size: 13px;
+  text-align: right;
+  margin-right: 30px;
+}
+
+.create-account {
+  color: blue;
+  margin-top: 30px;
+}
