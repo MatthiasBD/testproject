@@ -1,3 +1,2 @@
 # testproject
-Just some words
-Nog een keer wat woorden erbij.
+This is the ReadMe to initialize the repository.
