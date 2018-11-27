@@ -1,7 +1,4 @@
 .login {
-  border: 2px solid gray;
-  border-radius: 10px;
-  background-color: lightblue;
   height: 20px;
   width: 50px;
   margin-left: auto;
@@ -31,20 +28,16 @@ input[type=text] {
 
 .flex-container {
   display: flex;
-}
-
-.box {
-  border: 2px solid black;
-  border-radius: 5px;
-  margin: 30px 20px 20px 20px;
-  background-color: lightgray;
-  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
 }
 
 .country {
   background-color: lightgray;
-  padding: 5px 0px;
-  position: absolute;
   width: 100%;
-  bottom: 0px;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  bottom: 0;
+  position: fixed;
 }
